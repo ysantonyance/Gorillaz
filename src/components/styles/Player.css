@@ -1,0 +1,23 @@
+.player-container {
+  margin: 50px;
+}
+
+.player {
+  width: auto;
+  margin: 10px 50px;
+  border: 2px solid #ffffff0a;
+  padding: 32px 16px;
+  background: #ffffff1a;
+  border-radius: 30px;
+}
+
+.buttons-section {
+  display: flex;
+  justify-content: space-between;
+}
+
+.buttons-section button {
+  width: 50px;
+  height: 50px;
+
+}

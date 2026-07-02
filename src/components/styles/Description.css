@@ -1,0 +1,35 @@
+.description-container {
+  text-align: left;
+  margin: 0 30px;
+}
+
+.biography {
+  margin: 50px 0;
+}
+
+.album-card {
+  max-width: 250px;
+  margin: 50px auto;
+  border: 2px solid #ffffff0a;
+  padding: 32px 16px;
+  background: #ffffff1a;
+  border-radius: 30px;
+}
+
+.album-card img {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.albums-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+
+.album-name {
+  font-weight: bold;
+  font-size: 20px;
+}
