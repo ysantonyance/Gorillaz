@@ -11,55 +11,55 @@ import Player from "./components/Player.jsx";
 const myTracks = [
     {
         name: 'Clint Eastwood',
-        src: '/music/ClintEastwood.mp3'
+        src: '/public/music/ClintEastwood.mp3'
     },
     {
         name: 'Some Kind of Nature (feat. Lou Reed)',
-        src: '/music/SomeKindOfNature.mp3'
+        src: '/public/music/SomeKindOfNature.mp3'
     },
     {
         name: 'Pac-Man (feat. ScHoolboy Q)',
-        src: '/music/PacMan.mp3'
+        src: '/public/music/PacMan.mp3'
 
     },
     {
         name: 'Rhinestone Eyes',
-        src: '/music/RhinestonesEyes.mp3'
+        src: '/public/music/RhinestonesEyes.mp3'
 
     },
     {
         name: 'New Gold (feat. Tame Impala и Bootie Brown)',
-        src: '/music/NewGold.mp3'
+        src: '/public/music/NewGold.mp3'
     },
     {
         name: 'Cracker Island (feat. Thundercat)',
-        src: '/music/CrackerIsland.mp3'
+        src: '/public/music/CrackerIsland.mp3'
     }
 ]
 const popularTracks = [
     {
         name: 'Feel Good Inc.',
-        src: '/music/FeelGood.mp3'
+        src: '/public/music/FeelGood.mp3'
     },
     {
         name: 'Clint Eastwood',
-        src: '/music/ClintEastwood.mp3'
+        src: '/public/music/ClintEastwood.mp3'
     },
     {
         name: 'On Melancholy Hill',
-        src: '/music/OnMelancholyHill.mp3'
+        src: '/public/music/OnMelancholyHill.mp3'
     },
     {
         name: 'DARE (feat. Shaun Ryder и Roses Gabor)',
-        src: '/music/DARE.mp3'
+        src: '/public/music/DARE.mp3'
     },
     {
         name: 'Rhinestone Eyes',
-        src: '/music/RhinestonesEyes.mp3'
+        src: '/public/music/RhinestonesEyes.mp3'
     },
     {
         name: 'She\'s My Collar (feat. Kali Uchis)',
-        src: '/music/SheMyCollar.mp3'
+        src: '/public/music/SheMyCollar.mp3'
     }
 ]
 
